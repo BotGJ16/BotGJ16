@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center"> <img src="[https://raw.githubusercontent.com/BotGJ16/BotGJ16/main/assets/botgj16-3d-header.svg](https://gist.githubusercontent.com/BotGJ16/463b626356ff83b91ed2482fa5972312/raw/9cefd3ea426bfb371d496a3f64710b648255fafd/botgj16-3d-header.svg)" width="100%" alt="3D header" /> </p>
+<p align="center"> <img src="https://gist.githubusercontent.com/BotGJ16/463b626356ff83b91ed2482fa5972312/raw/9526e03e0520d0a851bf79557da59c4c6672de55/header-animated.svg" width="100%" alt="Animated 3D Cyber Header" /> </p>
 
 ---
 
