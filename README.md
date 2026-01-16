@@ -16,10 +16,10 @@
 ### 🌐 CONNECT WITH THE HUNTER
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/your-profile)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/your-profile)
-[![Immunefi](https://img.shields.io/badge/Immunefi-0033FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://immunefi.com/profile/yourprofile)
-[![HackenProof](https://img.shields.io/badge/HackenProof-00C58E?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackenproof.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/HackerMD)
+[![Immunefi](https://img.shields.io/badge/Immunefi-0033FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://immunefi.com/profile/mahmadisha)
+[![HackenProof](https://img.shields.io/badge/HackenProof-00C58E?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackenproof.com/hackers/mahmadisha)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mahmadisha_786)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
 
